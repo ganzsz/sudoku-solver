@@ -2,4 +2,4 @@
 Why keep creating repos
 
 # plan
-  [x] Find all possible numbers per field
+- [x] Find all possible numbers per field

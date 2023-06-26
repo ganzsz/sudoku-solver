@@ -1,2 +1,2 @@
-# sudoku-solver
+# sudoku solver
 Why keep creating repos
